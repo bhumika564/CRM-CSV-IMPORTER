@@ -1,0 +1,6 @@
+First Name,Last Name,Contact Email,Other Emails,Phone Number,Alt Phone,Company Name,Location,Status,Remarks,Property Info
+John,Doe,john.doe@example.com,johndoe2@gmail.com,+919876543210,022-1234567,GrowEasy,"Mumbai, Maharashtra",Wants follow up,"Client is asking to reschedule demo",sarjapur_plots
+Sarah,Johnson,sarah.johnson@example.com,,+919876543211,,Tech Solutions,"Bangalore, Karnataka","Didn't answer","Person was busy, will try again next week",eden_park
+Rajesh,Patel,rajesh.patel@example.com,test@gmail.com,+919876543212,1234567890,Startup Inc,"Delhi, Delhi",Not interested,Not interested in our services,leads_on_demand
+Priya,Singh,priya.singh@example.com,,+919876543213,,Enterprise Corp,"Pune, Maharashtra",Closed Deal,"Deal closed, onboarding in progress",meridian_tower
+Invalid,User,,,,,,,No contact info,,
