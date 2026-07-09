@@ -9,7 +9,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://your-render-backend-url.onrender.com/api/$1"
+      "destination": "https://crm-importer-backend.onrender.com/api/$1"
     }
   ]
 }
