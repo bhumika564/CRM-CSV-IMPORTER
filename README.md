@@ -9,9 +9,7 @@
 
 **Upload unstructured CSV → AI extracts & maps fields → Live streaming progress → Instant CRM JSON**
 
-[Live Demo](#) · [Backend API](https://crm-importer-backend.onrender.com) · [API Docs](#-api-endpoints)
-
-*(Insert Vercel link here)*
+[Live Demo](https://crm-csv-importer-frontend.vercel.app/) · [Backend API](https://crm-importer-backend.onrender.com) · [API Docs](#-api-endpoints)
 
 </div>
 
@@ -47,7 +45,7 @@
 
 | | Link |
 |---|---|
-| **🌐 Frontend (Vercel)** | [Insert Vercel Link Here] |
+| **🌐 Frontend (Vercel)** | [https://crm-csv-importer-frontend.vercel.app](https://crm-csv-importer-frontend.vercel.app/) |
 | **⚙️ Backend (Render)** | [https://crm-importer-backend.onrender.com](https://crm-importer-backend.onrender.com) |
 | **📂 GitHub Repository** | [https://github.com/bhumika564/CRM-CSV-IMPORTER](https://github.com/bhumika564/CRM-CSV-IMPORTER) |
 
